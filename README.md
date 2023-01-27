@@ -11,6 +11,12 @@
 <h3 align="justify"> <i>This simple yet efficient functionality will make the creation of NPCs during game sessions much more easier and challenging for the players. I can't wait to see this project completed and in action during my next RPG game session.</i> </h3>
 
 <h3 align="justify"> <i>If you want to add characters just increase the array and change the variable random number</i> </h3>
+
+<p align="center">
+  <img src="https://github.com/DevLass/NPC-Bank/blob/main/readmeimg/code2.png" alt="COde Preview" width="50%">
+</p>
+
+
  
 <h3 align="justify">
 Thanks for reading, see you soon
